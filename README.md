@@ -1,2 +1,2 @@
 # golocate
-Geolocation using IP address
+Geolocation in Go using IP address
